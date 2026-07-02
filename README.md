@@ -274,7 +274,7 @@ GPT-using-AgenticAI
 ```bash
 git clone :- https://github.com/Utsav07-hub/GPT-using-Agentic-AI.git
 
-cd GPT-using-AgenticAI
+
 ```
 
 ---
