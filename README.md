@@ -272,7 +272,7 @@ GPT-using-AgenticAI
 ## 1. Clone the Repository
 
 ```bash
-git clone :- https://github.com/Utsav07-hub/GPT-using-Agentic-AI.git
+git clone > https://github.com/Utsav07-hub/GPT-using-Agentic-AI.git
 
 
 ```
